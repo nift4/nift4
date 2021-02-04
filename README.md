@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 I'm Nick
 [![nift4's GitHub stats](https://github-readme-stats.vercel.app/api?username=nift4&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nift4)
 ## What's up?
 - I help developing LineageOS for cedric & yggdrasil
