@@ -12,8 +12,6 @@
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 
 ## How to reach me
 Sorted by preference, left is best :)
