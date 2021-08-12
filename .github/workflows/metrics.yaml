@@ -35,7 +35,7 @@ jobs:
           plugin_contributors_head: master
           plugin_contributors_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
           plugin_contributors_sections: contributors
-          plugin_discussions: yes
+          plugin_discussions: no
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_gists: yes
@@ -94,7 +94,7 @@ jobs:
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           plugin_traffic: yes
-          plugin_tweets: yes
+          plugin_tweets: no
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 2
           plugin_tweets_user: _nift4
