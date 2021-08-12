@@ -12,6 +12,8 @@
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 
 ## How to reach me
 Sorted by preference, left is best :)
@@ -22,3 +24,4 @@ Sorted by preference, left is best :)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/xdadevelopers.svg" width="32">](https://forum.xda-developers.com/m/nift4.9942894/)
 [<img src="https://www.vectorlogo.zone/logos/keybase/keybase-tile.svg" width="32">](https://keybase.io/nift4)
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/_nift4)
+[<img src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-tile.svg" width="32">](https://mastodon.social/nift4)
