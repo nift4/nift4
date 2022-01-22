@@ -1,8 +1,10 @@
 # Hi there 👋 I'm Nick
 [![nift4's GitHub stats](https://github-readme-stats.vercel.app/api?username=nift4&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nift4)
 ## What's up?
-- I help developing LineageOS for cedric & yggdrasil
+- I help developing LineageOS for cedric & yggdrasil and I am maintaing a fork of it
 - I work on multi-boot for phones
+- I mod Telegram for Android (Catogram X)
+- I maintain an popular magisk module, microG Installer Revived
 - I have various side projects
 ## ... using these languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nift4&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/nift4?tab=repositories)
