@@ -3,7 +3,6 @@
 ## What's up?
 - I help developing LineageOS for cedric & yggdrasil and I am maintaing a fork of it
 - I work on multi-boot for phones
-- I mod Telegram for Android (Catogram X)
 - I maintain an popular magisk module, microG Installer Revived
 - I have various side projects
 ## ... using these languages
