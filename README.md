@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Nick
 [![nift4's GitHub stats](https://github-readme-stats.vercel.app/api?username=nift4&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nift4)
 ## What's up?
-- I help developing LineageOS for cedric & yggdrasil and I am maintaing a fork of it
-- I work on multi-boot for phones
+- I help developing LineageOS for cedric & yggdrasil and I am maintaing a fork of it (droid-ng)
+- I work on multi-boot for phones (Android Boot Manager)
 - I maintain an popular magisk module, microG Installer Revived
 - I have various side projects
 ## ... using these languages
@@ -15,6 +15,7 @@
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="64">
 
 ## How to reach me
 Sorted by preference, left is best :)
