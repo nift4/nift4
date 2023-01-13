@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Nick
-[![nift4's GitHub stats](https://github-readme-stats.vercel.app/api?username=nift4&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nift4)
+[![nift4's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nift4&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nift4)
 ## What's up?
 - I help developing LineageOS for cedric & yggdrasil and I am maintaining a fork of it (droid-ng)
 - I work on multi-boot for phones (Android Boot Manager)
@@ -7,7 +7,7 @@
 - I have various side projects
 
 ## ... using these languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nift4&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/nift4?tab=repositories)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nift4&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/nift4?tab=repositories)
 
 ## What I know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
