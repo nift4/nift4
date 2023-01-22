@@ -1,9 +1,10 @@
 # Hi there 👋 I'm Nick
 [![nift4's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nift4&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nift4)
 ## What's up?
-- I help developing LineageOS for cedric & yggdrasil and I am maintaining a fork of it (droid-ng)
+- I help developing LibreMobileOS and I am maintaining a fork of it (droid-ng)
 - I work on multi-boot for phones (Android Boot Manager)
 - I maintain an popular magisk module, microG Installer Revived
+- I work on an open source Wellbeing replacement (Neo Wellbeing)
 - I have various side projects
 
 ## ... using these languages
