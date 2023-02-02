@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Nick
 [![nift4's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nift4&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nift4)
+
 ## What's up?
 - I help developing LibreMobileOS and I am maintaining a fork of it (droid-ng)
 - I work on multi-boot for phones (Android Boot Manager)
@@ -20,11 +21,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="64">
 
 ## How to reach me
-Sorted by preference from left to right:
-
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](https://t.me/nift4)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Email_%281674%29_-_The_Noun_Project.svg" width="32">](mailto:nift4@protonmail.com)
 [<img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" width="32">](https://reddit.com/user/nift4)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/xdadevelopers.svg" width="32">](https://forum.xda-developers.com/m/nift4.9942894/)
-[<img src="https://www.vectorlogo.zone/logos/keybase/keybase-tile.svg" width="32">](https://keybase.io/nift4)
+
 ![](https://hit.yhype.me/github/profile?user_id=36458596)
