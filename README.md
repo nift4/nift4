@@ -8,9 +8,6 @@
 - I work on an open source Wellbeing replacement (Neo Wellbeing)
 - I have various side projects
 
-## ... using these languages
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nift4&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/nift4?tab=repositories)
-
 ## What I know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
