@@ -20,6 +20,5 @@
 ## How to reach me
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](https://t.me/nift4)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Email_%281674%29_-_The_Noun_Project.svg" width="32">](mailto:nift4@protonmail.com)
-[<img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" width="32">](https://reddit.com/user/nift4)
 
 ![](https://hit.yhype.me/github/profile?user_id=36458596)
