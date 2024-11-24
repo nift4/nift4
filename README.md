@@ -5,6 +5,7 @@
 ## What's up?
 - I help developing LibreMobileOS, an Android custom ROM
 - I work on multi-boot for phones (Android Boot Manager)
+- I work on a Linux container for phones (Lindroid)
 - I work on an open source Digital Wellbeing replacement (Neo Wellbeing)
 - I maintain the music player app "Gramophone"
 - I have various side projects
