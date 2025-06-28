@@ -1,5 +1,4 @@
 # Hi there 👋 I'm Nick
-![](https://hit.yhype.me/github/profile?user_id=36458596)
 
 ## What's up?
 - I help developing LibreMobileOS, an Android custom ROM
@@ -17,3 +16,6 @@
 ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="64">
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
+
+
+![](https://hit.yhype.me/github/profile?user_id=36458596)
