@@ -1,5 +1,4 @@
 # Hi there 👋 I'm Nick
-[![nift4's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nift4&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nift4)
 ![](https://hit.yhype.me/github/profile?user_id=36458596)
 
 ## What's up?
